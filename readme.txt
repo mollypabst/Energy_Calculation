@@ -1,0 +1,1 @@
+This script calculates the total energy for the batteries before dropping below 3V
